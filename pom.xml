@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>3.8.1</version>
+			<version>4.11</version>
 			<scope>test</scope>
 		</dependency>
 
@@ -166,4 +166,5 @@
 	<build>
 		<finalName>spring</finalName>
 	</build>
+	<description>spring springMVC mbatis整合</description>
 </project>
